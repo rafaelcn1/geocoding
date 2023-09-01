@@ -1,6 +1,6 @@
-# Serviço de Geocodificação
+# Serviço de Geolocalização
 
-O serviço de geocodificação é uma parte essencial deste projeto Spring Boot. Ele permite que você converta coordenadas de latitude e longitude em um endereço completo usando a API Geocoding do Google Maps. Além disso, ele armazena os resultados no banco de dados H2 para referência futura.
+O serviço de Geolocalização é uma parte essencial deste projeto Spring Boot. Ele permite que você converta coordenadas de latitude e longitude em um endereço completo usando a API Geocoding do Google Maps. Além disso, ele armazena os resultados no banco de dados H2 para referência futura.
 
 ## Uso
 

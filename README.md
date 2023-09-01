@@ -46,9 +46,9 @@ Para usar o serviço, você precisa configurar a chave da API do Google Maps em 
 google.maps.api.key=YOUR_API_KEY_HERE
 ```
 
-## Erros
+## Login
 
-Se o serviço não conseguir encontrar um endereço para as coordenadas fornecidas, ele retornará uma resposta de erro com o status HTTP 500 e uma mensagem de erro correspondente.
+Para acessar a aplicação, o usuário e senha padrão é: admin - Para acessar a URL da aplicação é http://localhost:8080/swagger-ui.html e o banco de dados h2 é http://localhost:8080/h2/
 
 ## Autor
 

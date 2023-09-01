@@ -32,17 +32,6 @@ public class GeocodingData implements Serializable {
 		// TODO Auto-generated constructor stub
 	}
 
-	public GeocodingData(Long id, Double latitude, Double longitude, String fullAddress, LocalDateTime timestamp,
-			String apiResponseJson) {
-		super();
-		this.id = id;
-		this.latitude = latitude;
-		this.longitude = longitude;
-		this.fullAddress = fullAddress;
-		this.timestamp = timestamp;
-		this.apiResponseJson = apiResponseJson;
-	}
-
 	public Long getId() {
 		return id;
 	}

@@ -40,7 +40,7 @@ A resposta será um objeto JSON contendo informações sobre o endereço da loca
 
 ## Configuração
 
-Para usar o serviço, você precisa configurar a chave da API do Google Maps em seu arquivo `application.properties` ou `application.yml`. Certifique-se de que a chave esteja válida e configurada corretamente.
+Para usar o serviço, você precisa configurar a chave da API do Google Maps em seu arquivo `application.properties`. Certifique-se de que a chave esteja válida e configurada corretamente.
 
 ```properties
 google.maps.api.key=YOUR_API_KEY_HERE
@@ -52,12 +52,4 @@ Se o serviço não conseguir encontrar um endereço para as coordenadas fornecid
 
 ## Autor
 
-Este serviço foi desenvolvido por [Seu Nome] e faz parte do projeto [Nome do Projeto].
-
-## Licença
-
-Este serviço está licenciado sob a [Licença da sua escolha]. Consulte o arquivo LICENSE para obter mais informações.
-
-## Notas
-
-Lembre-se de que este é um serviço de exemplo e pode ser personalizado e expandido conforme suas necessidades. Certifique-se de lidar com casos de erro, autenticação e autorização, conforme necessário para sua aplicação.
+Este serviço foi desenvolvido por Rafael Cunha.
